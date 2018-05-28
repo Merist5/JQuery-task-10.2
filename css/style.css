@@ -7,12 +7,11 @@ div {
   text-transform: uppercase; }
   div p {
     padding: 10px; }
-    div p span {
-      padding: 15px; }
-
-button {
-  padding: 10px; }
-  button:nth-child(odd) {
-    margin-left: 70px; }
+  div span {
+    padding: 15px; }
+  div button {
+    padding: 10px; }
+    div button:nth-child(odd) {
+      margin-left: 70px; }
 
 /*# sourceMappingURL=style.css.map */

@@ -2,7 +2,6 @@
 
 $padding: 10px;
 
-
 * {
   font-family: 'Source Sans Pro', sans-serif;
 }
@@ -12,15 +11,14 @@ div {
   text-transform: uppercase;
   p {
     padding: $padding;
-    span {
-      padding: 15px;
-    }
   }
-}
-
-button {
-  padding: $padding;
-  &:nth-child(odd) {
+  span {
+    padding: 15px;
+  }
+  button {
+    padding: 10px;
+    &:nth-child(odd) {
     margin-left: 70px;
+    }
   }
 }
