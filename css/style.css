@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700");
+* {
+  font-family: 'Source Sans Pro', sans-serif; }
+
+div {
+  font-weight: 600;
+  text-transform: uppercase; }
+  div p {
+    padding: 10px; }
+    div p span {
+      padding: 15px; }
+
+button {
+  padding: 10px; }
+  button:nth-child(odd) {
+    margin-left: 70px; }
+
+/*# sourceMappingURL=style.css.map */
